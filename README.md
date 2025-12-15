@@ -54,4 +54,4 @@ Data Cleaning & EDA,
 SQL Querying & Analysis, 
 Dashboard Development, 
 Business Insight Generation, 
-Data Storytelling, 
+Data Storytelling.
